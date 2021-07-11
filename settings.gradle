@@ -1,0 +1,2 @@
+rootProject.name = "Tom And Jerry"
+include ':app'
